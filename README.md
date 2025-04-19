@@ -4,6 +4,8 @@
 
 I design and develop **secure, scalable, and maintainable applications**—where performance meets resilience. My work bridges full‑stack engineering and cybersecurity, backed by **Meta certifications** across the stack and an **ISC2 Cybersecurity Practitioner** accreditation.
 
+**Personal website under development :)**
+
 ---
 
 ### 🛠️ **Core Tech Stack**  
@@ -33,4 +35,4 @@ I design and develop **secure, scalable, and maintainable applications**—where
 
 ### 🤝 Let’s Connect  
 Review my pinned work or reach out:  
-🔗 [LinkedIn](https://www.linkedin.com/azhabalouch) | 🎖️ [Credly](https://www.credly.com/users/azhabalouch) | ✉️ [Email](mailto:azha.nawaz@hotmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/azhabalouch) | 🎖️ [Credly](https://www.credly.com/users/azhabalouch) | ✉️ [Email](mailto:azha.nawaz@hotmail.com)
