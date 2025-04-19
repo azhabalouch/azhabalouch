@@ -9,8 +9,7 @@ I design and develop **secure, scalable, and maintainable applications**—where
 ---
 
 ### 🛠️ **Core Tech Stack**  
-`Python` · `JavaScript` · `C#` · `React Native` · `Django` · `Node.js`  
-`Database Design` · `Linux Administration` · `Network Security`
+`C++` . `C#` · `Python` · `JavaScript` · `React` · `React Native` . `Django` · `Nodejs` . `Database Design` · `Linux Administration` · `Network Security`
 
 ---
 
