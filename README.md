@@ -1,16 +1,36 @@
-## Hi there 👋
+### 👋 Hey there — I’m in.  
+**Final-Year BSc Computer Science (UoL, Goldsmiths)**  
+**Full-Stack Developer | Cybersecurity Enthusiast | Builder of Resilient Systems**
 
-<!--
-**azhabalouch/azhabalouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and develop **secure, scalable, and maintainable applications**—where performance meets resilience. My work bridges full‑stack engineering and cybersecurity, backed by **Meta certifications** across the stack and an **ISC2 Cybersecurity Practitioner** accreditation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Core Tech Stack**  
+`Python` · `JavaScript` · `C#` · `React Native` · `Django` · `Node.js`  
+`Database Design` · `Linux Administration` · `Network Security`
+
+---
+
+### 🎓 **Certifications**  
+- 🟦 Meta Full‑Stack Engineer *(Feb 2025)*  
+- 🟪 Meta Back‑End Developer *(Jan 2025)*  
+- 🟩 Meta Front‑End Developer *(Nov 2023)*  
+- 🔐 ISC2 Certified Cybersecurity Practitioner *(Apr 2024–Apr 2027)*
+
+---
+
+### 🔍 **At a Glance**  
+- 🔧 Currently building: **secure, scalable full-stack apps**
+- ☁️ Expanding focus: **cloud-native architectures & system design**
+- 🧠 Learning path: **advanced threat modeling & red team tactics**
+- 🛠 Open to: **collabs in dev, security, and ops engineering**
+- 💬 Ask me about: **cybersecurity fundamentals, React Native, or Linux scripting**
+- ⚡ Fun fact: **Started with ActionScript before touching HTML**
+- 🧍 Pronouns: **he/him**
+
+---
+
+### 🤝 Let’s Connect  
+Review my pinned work or reach out:  
+🔗 [LinkedIn](https://www.linkedin.com/azhabalouch) | 🎖️ [Credly](https://www.credly.com/users/azhabalouch) | ✉️ [Email](mailto:azha.nawaz@hotmail.com)
