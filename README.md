@@ -34,4 +34,4 @@ I design and develop **secure, scalable, and maintainable applications**—where
 
 ### 🤝 Let’s Connect  
 Review my pinned work or reach out:  
-🔗 [LinkedIn](https://www.linkedin.com/in/azhabalouch) | 🎖️ [Credly](https://www.credly.com/users/azhabalouch) | ✉️ [Email](mailto:azha.nawaz@hotmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/aazhabalouchh) | 🎖️ [Credly](https://www.credly.com/users/azhabalouch) | ✉️ [Email](mailto:azha.nawaz@hotmail.com)
